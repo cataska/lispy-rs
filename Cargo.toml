@@ -1,0 +1,6 @@
+[package]
+name = "lispy-rs"
+version = "0.1.0"
+authors = ["Wen-Chun Lin <lovecankill@gmail.com>"]
+
+[dependencies]
