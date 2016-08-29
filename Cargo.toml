@@ -3,4 +3,11 @@ name = "lispy-rs"
 version = "0.1.0"
 authors = ["Wen-Chun Lin <lovecankill@gmail.com>"]
 
+[lib]
+name = "lispy"
+path = "src/lispy/lib.rs"
+
+[[bin]]
+name = "lispy"
+
 [dependencies]
